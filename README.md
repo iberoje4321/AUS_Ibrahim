@@ -1,3 +1,2 @@
 # AUS_Ibrahim
-Docker container
-i am creating an auto build using docker
+Automate the deployment of Node.js application using Kubernetes with Helm Chart with own Dockerfiles for application. (No Docker compose).
